@@ -11,7 +11,7 @@ import rs.raf.demo.repositories.*;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//
 @Component
 public class BootstrapData{
 
